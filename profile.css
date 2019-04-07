@@ -1,0 +1,55 @@
+html {
+  background-color: grey;
+}
+
+body {
+  background: none;
+  color: grey;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+strong {
+  color: #222324;
+}
+
+      .whitecolor{
+        color: #FFFFFF
+      }
+.backgroundcolour {
+  background-color:#00FFFF;
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background: ##0080FF;
+  border-color: ##0080FF;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #e05164;
+}
+
+.card {
+  border-color: #ccc;
+}
+
+.card-title {
+  color: #e16879z;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+.description {
+  background-image: url("img/pattern.png");
+  background-repeat: repeat-x;
+}
